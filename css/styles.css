@@ -124,3 +124,9 @@ button.full-screen:hover {opacity: 1;}
 #arrow_left {
 	right:95px;
 }
+.social-nav i{
+	color:#808080;
+}
+.social-nav a:hover i {
+    color:#fff;
+}
